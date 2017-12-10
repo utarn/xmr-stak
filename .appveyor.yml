@@ -8,7 +8,7 @@ platform: x64
 clone_folder: c:\xmr-stak
 
 artifacts:
-  - path: **\output.zip
+  - path: \xmr-stak\build\bin\Release\output.zip
     name: release
 
 install:
